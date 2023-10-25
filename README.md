@@ -7,7 +7,8 @@ The aim of this project is to explore dataset of used carsfrom eBay Kleinanzeige
 
 
 # My Analysis
-You can find [my full analysis](https://github.com/NguyenDangXuanLinh/eBay_Car_Sales_Data/blob/main/Exploring%20eBay%20Car%20Sales.ipynb) in this notebook 
+
+**You can find [my full analysis](https://github.com/NguyenDangXuanLinh/eBay_Car_Sales_Data/blob/main/Exploring%20eBay%20Car%20Sales.ipynb) in this notebook**
 <br>
 
 ## 1. Deal with incorrect Registeration Data
