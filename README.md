@@ -1,9 +1,11 @@
 # Analyse_eBay_Sales_Cars
+
 # This Project 
 The aim of this project is to explore dataset of used carsfrom eBay Kleinanzeigen, a classifieds section of the German eBay website. I use this project to highlight my skills in 
 1. Deal with incorrect data
 2. Analyze the price difference and the correlation between its and mileage.
-   
+
+You can find [my full analysis](https://github.com/NguyenDangXuanLinh/eBay_Car_Sales_Data/blob/main/Exploring%20eBay%20Car%20Sales.ipynb) in this notebook 
 # My Analysis
 <br>
 
