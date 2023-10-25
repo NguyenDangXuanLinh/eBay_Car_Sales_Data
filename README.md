@@ -5,11 +5,12 @@ The aim of this project is to explore dataset of used carsfrom eBay Kleinanzeige
 1. Deal with incorrect data
 2. Analyze the price difference and the correlation between its and mileage.
 
-You can find [my full analysis](https://github.com/NguyenDangXuanLinh/eBay_Car_Sales_Data/blob/main/Exploring%20eBay%20Car%20Sales.ipynb) in this notebook 
+
 # My Analysis
+You can find [my full analysis](https://github.com/NguyenDangXuanLinh/eBay_Car_Sales_Data/blob/main/Exploring%20eBay%20Car%20Sales.ipynb) in this notebook 
 <br>
 
-## 1. Deal with incrorrect Registeration Data
+## 1. Deal with incorrect Registeration Data
 ```
 autos["registration_year"].describe() 
 ```
@@ -60,7 +61,7 @@ brand_reg_year
  > Most cars from the top 10 brands were registered between year 2002 - 2004. This shows that majority of the cars listed are at least 12 years old.
 <br>
 
-# My finding
+# My findings
 ```
 top_10_dist = {}
 
@@ -83,7 +84,7 @@ Car listings on eBay Gemrany are dominated by the German brands.
 - Volkswagen is by far the most common brand with over 20 % dominance.
 - Most vehicles have a milages well over 125,000 km.
 - The prices are evenly distributed from 8700 to 14000.
-Top 3 brands in price are over $15,000 per car. Majority of the vehcles were registered early 2000s.
+Top 3 brands in price are over $15,000 per car. Majority of the vehicles were registered early 2000s.
 
 
 
